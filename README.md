@@ -84,3 +84,8 @@ You need to accomplish following in this project:
 -   Q-values of the state-action pairs tracked (Refer to States_tracked.pkl file)
 
 -   (Additional) Policy.pkl in Policy.zip file
+
+
+## Jupyter Notebook Viewer
+If you are unable to view or load the jupyter IPython notebook via Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Numerical_TicTacToe_Agent_using_Reinforcement_Learning/blob/chai_main/TicTacToe_Agent.ipynb).
+Thank you!
